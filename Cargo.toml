@@ -1,0 +1,11 @@
+[package]
+name = "effigy"
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/darkme0w/effigy"
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
+
